@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: `Unbothered:` Conversations
+author: Kieth Tyler Flores
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  Hosted by Kieth Tyler Flores, Unbothered: Conversations is a podcast dedicated to exploring personal stories, life-changing moments, and the experiences that shape us. From everyday challenges to extraordinary journeys, our candid conversations offer fresh perspectives and inspiration. Recorded at Cleveland High School in Cleveland, TN, each episode uncovers the stories that deserve to be heard.
 baseurl: ""
 
 plugins:
